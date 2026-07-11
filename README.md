@@ -2,7 +2,7 @@
 
 **Managerial Decision Making** — Business Analytics coursework, Lamar University (MS Management Information Systems).
 
-**Author:** [Shakila Azad](https://github.com/shakilaazad08-bot)  
+**Author:** [Shakila Azad](https://github.com/sazad-here)  
 **LinkedIn:** [linkedin.com/in/shakila-azad2005](https://www.linkedin.com/in/shakila-azad2005/)  
 **Course:** MDM (Managerial Decision Making)  
 **Textbook:** *Business Analytics: Data Analysis and Decision Making* (Albright et al., 8e)
