@@ -29,6 +29,13 @@ Full rubrics, textbook PDFs, and quizzes are excluded.
 
 Connect on LinkedIn: [Shakila Azad](https://www.linkedin.com/in/shakila-azad2005/)
 
+### Add this repo on LinkedIn
+
+Open the local guide and copy-paste into LinkedIn Projects / Featured:
+
+- **[`LINKEDIN_PROJECT.md`](LINKEDIN_PROJECT.md)** — step-by-step instructions + ready text  
+- On your PC: `E:\MDM\mdm-coursework\LINKEDIN_PROJECT.md`
+
 ## How to use this repo (students & visitors)
 
 1. Open an assignment folder and read **How to follow this assignment**.
