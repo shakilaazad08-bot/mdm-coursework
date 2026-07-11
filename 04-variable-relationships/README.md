@@ -10,29 +10,46 @@
 | `P03_08.xlsx` | 8 | Ch. 3, p. 96 |
 | `P03_21.xlsx` | 21 | Ch. 3, p. 104 |
 
-`P03_08` and `P03_21` share the same employee salary data (first seven columns). Start here before building COUNTIFS tables, pivot tables, and correlation outputs.
-
-## Problems covered
-
-| Problem | Deliverable |
-|---------|-------------|
-| 2 & 34 | COUNTIFS crosstabs + column charts; pivot table row/column % |
-| 8 | Excel Table, filters, summary stats by group |
-| 21 | Correlation matrix, scatterplots, strongest predictor |
-
 ## Scripts
-
-- **`solve_assignment4.py`** — Builds `outputs/` workbooks from the `data/` files (requires Windows Excel via COM).
-- **`_verify_assignment.py`** — Checks workbook structure and COUNTIFS formulas.
 
 ```bash
 python solve_assignment4.py
 python _verify_assignment.py
 ```
 
-## Sample submissions (`outputs/`)
+## Visualizations
 
-Completed workbooks and `screenshots/` for crosstabs, pivots, and correlation.
+### Problem 2 — COUNTIFS crosstabs & column charts
+
+![Problem 2a opinion by gender](screenshots/p2a.png)
+
+![Problem 2b opinion by age](screenshots/p2b.png)
+
+![Problem 2c opinion by salary band](screenshots/p2c.png)
+
+![Opinion by gender chart](screenshots/opinion%20by%20gender.png)
+
+![Opinion by age chart](screenshots/opinion%20by%20age.png)
+
+![Opinion by salary chart](screenshots/opinion%20by%20salary.png)
+
+### Problem 8 — Excel Table & summary statistics
+
+![Problem 8 filtered summary stats](screenshots/p8.png)
+
+### Problem 21 — Correlation & scatterplots
+
+![Problem 21 correlation and scatterplots](screenshots/p21%20a.png)
+
+### Problem 34 — Pivot table crosstabs
+
+![Problem 34 row percentages](screenshots/p34%20a.png)
+
+![Problem 34 pivot part 2a](screenshots/p34%20part%202%20a.png)
+
+![Problem 34 pivot part 2b](screenshots/p34%20part%202%20b.png)
+
+![Problem 34 column chart b](screenshots/p34b.png)
 
 ## Skills
 

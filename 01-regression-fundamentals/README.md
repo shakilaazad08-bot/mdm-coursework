@@ -11,13 +11,16 @@
 | `Drugstore Sales (Data only).xlsx` | Sales regression |
 | `Overhead Costs (Data only).xlsx` | Overhead cost modeling |
 
-Download these to practice the same Excel models used in Ch. 9.
-
 ## Sample submissions
 
 - `Bank Salaries Updated.xlsx` — Completed multiple regression workbook
 - `Drugstore Sales Updated.xlsx` — Completed regression results
-- `screenshots/` — Scatterplot and regression output examples
+
+## Visualizations
+
+### Regression scatterplot with trendline
+
+![Regression scatterplot with trendline and equation](screenshots/Screenshot%202026-04-19%20212915.png)
 
 ## Skills
 

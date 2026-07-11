@@ -10,15 +10,25 @@
 | 13 | Worker transportation | `worker Transportation.xlsx`, `Transportation.xlsx` |
 | 37 | Investing | `Investing.xlsx` |
 
-Use these as Solver input templates. Build the model, then compare your optimal solution to the sample workbooks.
+## Visualizations
 
-## Sample submissions (`workbooks/`)
+### Problem 1 — Worker scheduling
 
-Includes completed models such as `Worker Scheduling Solution.xlsx`, `Transportation Solution.xlsx`, and `09-Investing Solutions.xlsx`.
+![Worker scheduling optimal plan part 1](screenshots/woker%20schedueling%20part%201.png)
 
-## Screenshots
+![Worker scheduling part 2](screenshots/woker%20schedueling%20part%202.png)
 
-`screenshots/` — Optimal solutions for scheduling, transportation, and investing.
+### Problem 13 — Transportation
+
+![Transportation model part 1](screenshots/trasnpooirt%201.png)
+
+![Transportation optimal routes part 2](screenshots/trasnpooirt%202.png)
+
+### Problem 37 — Investing
+
+![Investing optimization result](screenshots/investing.png)
+
+![Investing sensitivity output](screenshots/investing%202.png)
 
 ## Skills
 

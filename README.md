@@ -41,6 +41,21 @@ Full rubrics, textbook PDFs, and quizzes are excluded.
 - **`solve_prob6.py`** — Descriptive statistics output with pandas and xlsxwriter
 - **Case study** — Retirement investment regression (Team 27, interactive HTML)
 
+## Visual previews
+
+Each assignment README embeds charts and Solver screenshots so readers can preview the work without downloading files.
+
+| Assignment | Preview |
+|------------|---------|
+| [01-regression-fundamentals](01-regression-fundamentals/) | Regression scatterplot |
+| [03-descriptive-statistics](03-descriptive-statistics/) | Histograms, column charts, time series |
+| [04-variable-relationships](04-variable-relationships/) | Crosstabs, pivots, correlation |
+| [05-linear-programming](05-linear-programming/) | Solver optimal solutions |
+| [06-optimization-solver](06-optimization-solver/) | Scheduling, transportation, investing |
+| [case-study-retirement-investment](case-study-retirement-investment/) | Regression scatterplots + HTML report |
+
+![Case study — salary vs percent invested](case-study-retirement-investment/screenshots/salary.png)
+
 ## Setup
 
 ```bash

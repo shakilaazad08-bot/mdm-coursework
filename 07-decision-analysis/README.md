@@ -8,11 +8,13 @@
 |------|---------|
 | `Assignment 7 Problem 10.xlsx` | Ch. 7, Problem 10 — completed decision model |
 
-The workbook includes the payoff structure and Excel model for the assigned decision-analysis problem. Open it to see how inputs, outcomes, and expected value are organized.
+## Visualizations
 
-## Files
+### Key decision equation
 
-- `eqn.png` — Key equation reference
+![Decision analysis equation for Problem 10](eqn.png)
+
+Open `Assignment 7 Problem 10.xlsx` for the full payoff table, decision tree structure, and expected-value calculations.
 
 ## Skills
 
